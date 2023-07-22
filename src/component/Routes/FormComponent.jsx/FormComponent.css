@@ -1,0 +1,18 @@
+.Main{
+    padding: 20px 0;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    width: auto;
+}
+
+.Main div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    /* justify-content: flex-start;
+    align-items: center; */
+}
